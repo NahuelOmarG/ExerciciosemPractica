@@ -1,0 +1,2 @@
+# ExerciciosemPractica
+Actividades da aula 
